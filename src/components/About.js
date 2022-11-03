@@ -1,5 +1,5 @@
 import React from "react";
-import Typical from 'react-typical';
+import { TypeAnimation } from 'react-type-animation';
 import QD from '../img/qd.jpg';
 
 export default function About() {
@@ -11,19 +11,20 @@ export default function About() {
             Hi, I'm Qi.
             <br className="hidden lg:inline-block" />
             <p>I'm a Vancouver, BC based{' '}
-            <Typical
-              loop={Infinity}
-              wrapper="b"
-              steps={[
-                'Software',
+            <TypeAnimation
+              sequence={[
+                'Software Developer',
                 1500,
-                'Full Stack',
+                'Full Stack Developer',
                 1500,
-                'DevOps',
-                1500
-              ] }
+                'DevOps Developer',
+                1500,
+              ]}
+              wrapper="div"
+              cursor={true}
+              repeat={Infinity}
             />
-          Developer.</p>
+          </p>
           </h1>
           <p className="mb-8 leading-relaxed text-lg">
             Passionate about <strong>software development</strong>, <strong>cloud computing</strong>, and <strong>automation</strong>. My entrepreneurial background has taught me strong interpersonal, and problem-solving skill, and persistence. BCIT CIT program has given me broad technology skill set including software & web development, cloud computing, database design/management, Windows & Linux system administration, and networking. My skill set was enhanced during my 16-months Co-op experiences.
