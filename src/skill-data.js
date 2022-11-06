@@ -5,7 +5,7 @@ export const skills = [
   },
   {
     title: "Web",
-    items: "NodeJS, Express, HTML/CSS/JS, React, Bootstrap, Flask, Django"
+    items: "NodeJS, Express, HTML/CSS/JS, React, Tailwind CSS, Bootstrap, Flask, Django"
   },
   {
     title: "Cloud",
@@ -13,7 +13,7 @@ export const skills = [
   },
   {
     title: "Database",
-    items: "MySQL, PostgreSQL, Google Firebase, MongoDB"
+    items: "MySQL, PostgreSQL, Firebase Realtime Database, MongoDB"
   },
   {
     title: "Unix/ Linux",
