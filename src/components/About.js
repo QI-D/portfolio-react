@@ -1,6 +1,5 @@
 import React from "react";
 import { TypeAnimation } from 'react-type-animation';
-import QD from '../img/qd.jpg';
 
 export default function About() {
   return (
@@ -41,7 +40,7 @@ export default function About() {
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-        <img className="object-cover object-center rounded" alt="QD" src={QD}/>
+        <img className="object-cover object-center rounded-full" alt="QD" src="./img/qd.jpg"/>
         </div>
       </div>
     </section>
