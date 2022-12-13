@@ -1,5 +1,16 @@
 export const projects = [
     {
+        title: "Inventory Management System",
+        subtitle: "Python + Connexion + MySQL + OpenAPI + Kafka",
+        description: "Web-based Inventory Management System. Tracks inventory availability at all points of your supply chain. ",
+        image: "./img/inventory.png",
+        link: "https://github.com/QI-D/Inventory_Management_System",
+        l1: "Microservices Architecture",
+        l2: "Inventory Intake",
+        l3: "Order Management",
+        l4: "Revenue Report",
+        l5: "Health Check",
+    },{
         title: "Smart Roster Scheduler",
         subtitle: "Python + Flask + jQuery + MySQL",
         description: "In partnership with Subject Matter Expertise from BC Women's Hospital, to simplify the process for shift assigments.",
