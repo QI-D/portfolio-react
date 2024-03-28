@@ -10,23 +10,27 @@ export default function About() {
             Hi, I'm Qi.
             <br className="hidden lg:inline-block" />
             <p>I'm a Vancouver, BC based{' '}
-            <TypeAnimation
-              sequence={[
-                'Software Developer',
-                1500,
-                'Full Stack Developer',
-                1500,
-                'DevOps Developer',
-                1500,
-              ]}
-              wrapper="div"
-              cursor={true}
-              repeat={Infinity}
-            />
-          </p>
+              <TypeAnimation
+                sequence={[
+                  'Software Developer',
+                  1500,
+                  'Full Stack Developer',
+                  1500,
+                  'DevOps Developer',
+                  1500,
+                ]}
+                wrapper="div"
+                cursor={true}
+                repeat={Infinity}
+              />
+            </p>
           </h1>
           <p className="mb-8 leading-relaxed text-lg">
-            Passionate about <strong>software development</strong>, <strong>cloud computing</strong>, and <strong>automation</strong>. My entrepreneurial background has taught me strong interpersonal, and problem-solving skill, and persistence. BCIT CIT program has given me broad technology skill set including software & web development, cloud computing, database design/management, Windows & Linux system administration, and networking. My skill set was enhanced during my 16-months Co-op experiences.
+            Experienced Cloud Software Engineer with a solid background in <strong>software development</strong>, <strong>cloud computing</strong>,
+            and <strong>automation</strong>. Proficient in AWS, GCP, and Azure, adept at implementing automated pipelines and
+            developing web applications using a diverse set of technologies including JavaScript, Python, and related frameworks. Skilled
+            in DevOps tools such as Terraform, Ansible, and Docker, with a keen focus on maximizing efficiency and scalability.
+            Collaborative team player with a track record of delivering successful projects and fostering continuous improvement.
           </p>
           <div className="flex justify-center">
             <a href="mailto:qid14@outlook.com" target="_blank" rel="noopener noreferrer"
@@ -40,7 +44,7 @@ export default function About() {
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-        <img className="object-cover object-center rounded-full" alt="QD" src="./img/qd.jpg"/>
+          <img className="object-cover object-center rounded-full" alt="QD" src="./img/qd.jpg" />
         </div>
       </div>
     </section>
