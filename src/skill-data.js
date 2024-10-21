@@ -5,11 +5,11 @@ export const skills = [
   },
   {
     title: "Web",
-    items: "NodeJS, Express, HTML/CSS/JS, React, Tailwind CSS, Bootstrap, Flask, Django"
+    items: "NodeJS, ExpressJS, ReactJS, HTML/CSS/JS, Redux, Flask, Django"
   },
   {
     title: "Cloud",
-    items: "AWS, Google Cloud, Microsoft Azure"
+    items: "AWS, Microsoft Azure, Google Cloud"
   },
   {
     title: "Database",
@@ -21,10 +21,14 @@ export const skills = [
   },
   {
     title: "VCS and DevOps",
-    items: "Git, Jenkins, Terraform, Ansible, Docker, Kubernetes"
+    items: "Git, Terraform, Ansible, Docker, Kubernetes, TeamCity, Github Actions, Jenkins"
   },
   {
     title: "Communication Protocols",
     items: "HTTP, TCP/IP, REST"
+  },
+  {
+    title: "Testing & Best Practices",
+    items: "Unit Testing, Integration Testing, Test-Driven Development (TDD), Load Testing"
   }
 ]
