@@ -12,11 +12,11 @@ export default function About() {
             <p>I'm a Vancouver, BC based{' '}
               <TypeAnimation
                 sequence={[
-                  'Software Developer',
+                  'Software Engineer',
                   1500,
-                  'Full Stack Developer',
+                  'Full Stack Engineer',
                   1500,
-                  'DevOps Developer',
+                  'Cloud Engineer',
                   1500,
                 ]}
                 wrapper="div"
