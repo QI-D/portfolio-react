@@ -26,11 +26,12 @@ export default function About() {
             </p>
           </h1>
           <p className="mb-8 leading-relaxed text-lg">
-            Experienced Cloud Software Engineer with a solid background in <strong>software development</strong>, <strong>cloud computing</strong>,
-            and <strong>automation</strong>. Proficient in AWS, GCP, and Azure, adept at implementing automated pipelines and
-            developing web applications using a diverse set of technologies including JavaScript, Python, and related frameworks. Skilled
-            in DevOps tools such as Terraform, Ansible, and Docker, with a keen focus on maximizing efficiency and scalability.
-            Collaborative team player with a track record of delivering successful projects and fostering continuous improvement.
+            Experienced Cloud Software Engineer with over 3 years of expertise in <strong>cloud-based applications</strong>, <strong>distributed systems</strong>, 
+            <strong> full stack engineering</strong>, and <strong>DevOps practices</strong>. Proficient in <strong>AWS</strong>, <strong>Azure</strong>, and <strong>GCP</strong>, with a strong focus on 
+            <strong> cloud automation</strong>, <strong>microservices architecture</strong>, and building scalable backend solutions. Skilled in developing 
+            web applications using <strong>Node.js</strong>, <strong>React</strong>, <strong>Python</strong>, and <strong>SQL</strong>, with expertise in implementing 
+            <strong> CI/CD pipelines</strong>, containerization with <strong>Docker</strong>, and orchestration using <strong>Kubernetes</strong>. Experienced in working in agile teams, 
+            collaborating with cross-functional teams to deliver secure, efficient, and scalable solutions. Passionate about continuous improvement, system observability, and leveraging cloud-native technologies.
           </p>
           <div className="flex justify-center">
             <a href="mailto:qid14@outlook.com" target="_blank" rel="noopener noreferrer"
