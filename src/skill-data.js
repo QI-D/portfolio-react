@@ -5,22 +5,22 @@ export const skills = [
   },
   {
     title: "Web",
-    items: "NodeJS, ExpressJS, ReactJS, HTML/CSS/JS, Redux, Flask, Django"
+    items: "NodeJS, ExpressJS, ReactJS, HTML/CSS, Redux, Flask, Django, Spring Boot"
   },
   {
     title: "Cloud",
     items: "AWS, Microsoft Azure, Google Cloud"
   },
   {
-    title: "Database",
-    items: "MySQL, PostgreSQL, Firebase Realtime Database, MongoDB"
+    title: "Database & Storage",
+    items: "MySQL, PostgreSQL, Firebase, MongoDB, Redis"
   },
   {
     title: "Unix/ Linux",
     items: "VMs, Command-Line, Bash, Shell Scripting, Vi"
   },
   {
-    title: "VCS and DevOps",
+    title: "VCS & DevOps",
     items: "Git, Terraform, Ansible, Docker, Kubernetes, TeamCity, Github Actions, Jenkins"
   },
   {

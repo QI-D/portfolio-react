@@ -29,7 +29,7 @@ export default function About() {
             Experienced Software Engineer with over 3 years of expertise in <strong>cloud-based applications</strong>, <strong>distributed systems</strong>, 
             <strong> full stack engineering</strong>, and <strong>DevOps practices</strong>. Proficient in <strong>AWS</strong>, <strong>Azure</strong>, and <strong>GCP</strong>, with a strong focus on 
             <strong> microservices architecture</strong>, <strong>cloud automation</strong>, and building scalable backend solutions. Skilled in developing 
-            web applications using <strong>Node.js</strong>, <strong>React</strong>, <strong>Python</strong>, and <strong>SQL</strong>, with expertise in implementing 
+            web applications using <strong>Node.js</strong>, <strong>Python</strong>, <strong>Java</strong>, and <strong>React</strong>, with expertise in implementing 
             <strong> CI/CD pipelines</strong>, containerization with <strong>Docker</strong>, and orchestration using <strong>Kubernetes</strong>. 
             Experienced in <strong>API development</strong>, designing RESTful APIs and integrating them into distributed systems to support seamless communication between services.
             Collaborative team player with a track record of delivering secure, efficient, and scalable solutions. Passionate about continuous improvement, system observability, and leveraging cloud-native technologies.
