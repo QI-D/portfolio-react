@@ -12,6 +12,18 @@ export const projects = [
         l5: "Collaborative Agile Development",
     },
     {
+        title: "E-Commerce Platform",
+        subtitle: "Java + Spring Boot + MySQL + React + Axios + JWT + AWS S3",
+        description: "Built a feature-rich e-commerce platform with secure authentication, order management, and product catalog capabilities, ensuring a seamless shopping experience across devices.",
+        image: "./img/e_commerce.png",
+        link: "https://github.com/QI-D/ecommerce-frontend",
+        l1: "Secure RESTful API Development",
+        l2: "Responsive Frontend with State Management",
+        l3: "Product Browsing, Cart Management, and Order Placing",
+        l4: "Admin Panel for Easy Content Management",
+        l5: "Responsive Design for Mobile and Desktop"
+    },
+    {
         title: "Inventory Management System",
         subtitle: "Python + Connexion + MySQL + React + Kafka + OpenAPI + Docker + AWS",
         description: "Web-based Inventory Management System. Tracks inventory availability at all points of your supply chain. ",
