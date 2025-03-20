@@ -13,7 +13,7 @@ export const projects = [
     },
     {
         title: "E-Commerce Platform",
-        subtitle: "Java + Spring Boot + MySQL + React + Axios + JWT + AWS S3",
+        subtitle: "Java + Spring Boot + MySQL + React + JWT + Docker + AWS",
         description: "Built a feature-rich e-commerce platform with secure authentication, order management, and product catalog capabilities, ensuring a seamless shopping experience across devices.",
         image: "./img/e_commerce.png",
         link: "https://github.com/QI-D/ecommerce-frontend",
