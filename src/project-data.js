@@ -14,7 +14,7 @@ export const projects = [
     {
         title: "E-Commerce Platform",
         subtitle: "Java + Spring Boot + MySQL + React + JWT + Docker + AWS",
-        description: "Built a feature-rich e-commerce platform with secure authentication, order management, and product catalog capabilities, ensuring a seamless shopping experience across devices.",
+        description: "Built a feature-rich full-stack e-commerce platform with secure authentication, order management, and product catalog capabilities, ensuring a seamless shopping experience across devices.",
         image: "./img/e_commerce.png",
         link: "https://github.com/QI-D/ecommerce-frontend",
         l1: "Secure RESTful API Development",
@@ -22,6 +22,18 @@ export const projects = [
         l3: "Product Browsing, Cart Management, and Order Placing",
         l4: "Admin Panel for Easy Content Management",
         l5: "Responsive Design for Mobile and Desktop"
+    },
+    {
+        title: "Mini Casino",
+        subtitle: "Java + Spring Boot + MySQL + React + Redux + JWT + Docker",
+        description: "A full-stack casino application that simulates various casino games. It allows players to register, authenticate, deposit funds, place bets, and check their game statistics and balance.",
+        image: "./img/mini_casino.png",
+        link: "https://github.com/QI-D/mini-casino-frontend",
+        l1: "Player Authentication & Registration",
+        l2: "Game Management",
+        l3: "Deposit and Balance Management",
+        l4: "Betting System with Game Outcomes",
+        l5: "Dockerized Setup for Streamlined Deployment"
     },
     {
         title: "Inventory Management System",
